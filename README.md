@@ -4,7 +4,7 @@
 - 🔭 I’m a Backend developer
 - 🌱 Currently focusing on **Django, Node.Js**
 - 🎯 Aspiring to become a **Backend developer**
-- 📫 Reach me at: [Email]([emongare0002@gmail.com])
+- 📫 Reach me at: [emongare0002@gmail.com]
 
 ## 🛠 Skills
 - 💻 Languages: Python, Javascript
