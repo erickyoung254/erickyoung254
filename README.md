@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi there, I'm Erick Mong'are  from Nairobi 👋
 
-<!--
-**erickyoung254/erickyoung254** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+- 🔭 I’m a Backend web developer
+- 🌱 Currently focusing on **Django, Node.Js**
+- 🎯 Aspiring to become a **Backend developer**
+- 📫 Reach me at: [Email]([emongare0002@gmail.com])
 
-Here are some ideas to get you started:
+## 🛠 Skills
+- 💻 Languages: Python, Javascript
+- 🔧 Backend: Node.js,
+- 🛢️ Databases: MySQL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## 🌎 Connect with Me
+[![GitHub](https://github.com/erickyoung254/erickyoung254/edit/main/README.md)
