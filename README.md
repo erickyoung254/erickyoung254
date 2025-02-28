@@ -13,4 +13,4 @@
 
 
 ## 🌎 Connect with Me
-[![GitHub](https://github.com/erickyoung254/erickyoung254/edit/main/README.md)
+[https://github.com/erickyoung254/erickyoung254/edit/main/README.md]
